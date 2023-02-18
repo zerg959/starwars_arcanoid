@@ -1,0 +1,8 @@
+asgiref==3.6.0
+pygame==2.1.2
+sqlparse==0.4.3
+flake8==4.0.1
+pep8-naming
+flake8-broken-line
+flake8-return
+flake8-isort
