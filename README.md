@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/Python-3.8-blue) 
 # starwars_arcanoid
 ## Simple Arcanoid on pygame.
 - For using need to copy repository 
